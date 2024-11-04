@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "515848972491",
+    "project_id": "getrepo-ba7d2",
+    "storage_bucket": "getrepo-ba7d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515848972491:android:a44ae546f78f847a0f934e",
+        "android_client_info": {
+          "package_name": "com.example.githubrepos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515848972491-j9lqjke3te5k1a5kan4q9tfd06rv7vaa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.githubrepos",
+            "certificate_hash": "c21b6383c7d399c1c9e6bcb238828ffc826685f6"
+          }
+        },
+        {
+          "client_id": "515848972491-t0blaeuor0pv6gp0ts87of6so7jm72ft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwIb2UJX03RgeMKfuxnX-hoeFDwZTMwGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515848972491-t0blaeuor0pv6gp0ts87of6so7jm72ft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GitHubRepos</string>
+    <string name="search_here">Search here</string>
+    <string name="sign_in">Sign in</string>
+    <string name="by_x">By %1$s</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="don_t_have_account">Don\'t have account?</string>
+    <string name="email">Email</string>
+    <string name="mail_cant_be_empty">Mail can\'t be empty</string>
+    <string name="password_cant_be_empty">Invalid password</string>
+    <string name="password">Password</string>
+    <string name="or_connect_using">Or connect using</string>
+    <string name="name">Name</string>
+    <string name="required">Required</string>
+    <string name="password_invalid">Password must be more than 6 chars</string>
+</resources>
